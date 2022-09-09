@@ -1,0 +1,17 @@
+C:\Users\joshu\OneDrive\Desktop\Repos\SwansonWestConvo\SwansonWestConvo\bin\Debug\net6.0\SwansonWestConvo.exe
+C:\Users\joshu\OneDrive\Desktop\Repos\SwansonWestConvo\SwansonWestConvo\bin\Debug\net6.0\SwansonWestConvo.deps.json
+C:\Users\joshu\OneDrive\Desktop\Repos\SwansonWestConvo\SwansonWestConvo\bin\Debug\net6.0\SwansonWestConvo.runtimeconfig.json
+C:\Users\joshu\OneDrive\Desktop\Repos\SwansonWestConvo\SwansonWestConvo\bin\Debug\net6.0\SwansonWestConvo.dll
+C:\Users\joshu\OneDrive\Desktop\Repos\SwansonWestConvo\SwansonWestConvo\bin\Debug\net6.0\SwansonWestConvo.pdb
+C:\Users\joshu\OneDrive\Desktop\Repos\SwansonWestConvo\SwansonWestConvo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\joshu\OneDrive\Desktop\Repos\SwansonWestConvo\SwansonWestConvo\obj\Debug\net6.0\SwansonWestConvo.csproj.AssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\Repos\SwansonWestConvo\SwansonWestConvo\obj\Debug\net6.0\SwansonWestConvo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\OneDrive\Desktop\Repos\SwansonWestConvo\SwansonWestConvo\obj\Debug\net6.0\SwansonWestConvo.AssemblyInfoInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Repos\SwansonWestConvo\SwansonWestConvo\obj\Debug\net6.0\SwansonWestConvo.AssemblyInfo.cs
+C:\Users\joshu\OneDrive\Desktop\Repos\SwansonWestConvo\SwansonWestConvo\obj\Debug\net6.0\SwansonWestConvo.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Repos\SwansonWestConvo\SwansonWestConvo\obj\Debug\net6.0\SwansonWestConvo.csproj.CopyComplete
+C:\Users\joshu\OneDrive\Desktop\Repos\SwansonWestConvo\SwansonWestConvo\obj\Debug\net6.0\SwansonWestConvo.dll
+C:\Users\joshu\OneDrive\Desktop\Repos\SwansonWestConvo\SwansonWestConvo\obj\Debug\net6.0\refint\SwansonWestConvo.dll
+C:\Users\joshu\OneDrive\Desktop\Repos\SwansonWestConvo\SwansonWestConvo\obj\Debug\net6.0\SwansonWestConvo.pdb
+C:\Users\joshu\OneDrive\Desktop\Repos\SwansonWestConvo\SwansonWestConvo\obj\Debug\net6.0\SwansonWestConvo.genruntimeconfig.cache
+C:\Users\joshu\OneDrive\Desktop\Repos\SwansonWestConvo\SwansonWestConvo\obj\Debug\net6.0\ref\SwansonWestConvo.dll
